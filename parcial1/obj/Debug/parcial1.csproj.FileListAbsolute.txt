@@ -1,0 +1,2 @@
+C:\Users\PC\Documents\GitHub\Clasegeneral\parcial1\parcial1\obj\Debug\parcial1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Clasegeneral\parcial1\parcial1\obj\Debug\parcial1.csproj.CoreCompileInputs.cache
