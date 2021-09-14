@@ -11,13 +11,22 @@ namespace parcial1.Entidades
         private string nombre;
         private int contraseña;
 
+        public string Nombre { get => nombre; set => nombre = value; }
+        public int Contraseña { get => contraseña; set => contraseña = value; }
+
+        public Usuario()
+        {
+        }
+
         public Usuario(string nombre, int contraseña)
         {
             this.Nombre = nombre;
             this.Contraseña = contraseña;
         }
 
-        public string Nombre { get => nombre; set => nombre = value; }
-        public int Contraseña { get => contraseña; set => contraseña = value; }
+        public override String ToString()
+        {
+            return "su nombre de usuario es: " + Nombre + " su contraseña es: " + Contraseña;
+        }
     }
 }

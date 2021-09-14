@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\GitHub\Clasegeneral\parcial1\parcial1\obj\Debug\parcial1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Clasegeneral\parcial1\parcial1\obj\Debug\parcial1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Clasegeneral\parcial1\parcial1\bin\Debug\parcial1.exe.config
+C:\Users\PC\Documents\GitHub\Clasegeneral\parcial1\parcial1\bin\Debug\parcial1.exe
+C:\Users\PC\Documents\GitHub\Clasegeneral\parcial1\parcial1\bin\Debug\parcial1.pdb
+C:\Users\PC\Documents\GitHub\Clasegeneral\parcial1\parcial1\obj\Debug\parcial1.exe
+C:\Users\PC\Documents\GitHub\Clasegeneral\parcial1\parcial1\obj\Debug\parcial1.pdb
